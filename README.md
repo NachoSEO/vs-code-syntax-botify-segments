@@ -3,7 +3,7 @@ VS code extension for semantic highlighting language for Botify segments.
 
 ## Installation
 1. Download this repo
-2. Place it in your `~/.vscode/extensions` folder
+2. Place it in your `~/.vscode/extensions` folder. Bash script: `cp -R botify-lang ~/.vscode/extensions/botify-lang`
 3. Copy the code snippet of the next section into your `settings.json` vscode file
 4. Restart VS Code
 5. You can now use the `botify` language in VS Code
